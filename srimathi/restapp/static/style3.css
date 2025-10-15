@@ -1,0 +1,17 @@
+body{
+        
+            background-image: url("back.png");
+            background-size: cover;
+            background-position: center;
+        }
+        body{
+            display: inline blocks;
+            margin:0 600px;
+            font-family:MS Sans Serif;
+            text-decoration: none;
+            font-size: 23px;
+            font-weight: bolder;
+            color: rgb(10, 8, 10);
+            position:absolute;
+            top: 200px;
+        }

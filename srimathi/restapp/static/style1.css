@@ -1,0 +1,23 @@
+ body{
+            background-image: url("temp.png");
+            background-size: cover;
+            background-position: center;
+        }
+        .nav-list{
+            position: absolute;
+            top: 30px;
+            left: 80%;
+            transform:  translatex(10%);
+        }
+        .nav-list a{
+            display: inline blocks;
+            margin: 0 10px;
+            font-family:MS Sans Serif;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            color: rgb(229, 50, 214);
+        }
+        .nav-list a:hover{
+            color: rgb(235, 9, 149);
+        }
